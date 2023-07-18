@@ -43,7 +43,7 @@ a {
 .small_header a,
 .header__right a {
     color: #585858;
-    transition: color .3s ease;
+    transition: color 0.3s ease;
 }
 
 .header__center {
@@ -64,7 +64,7 @@ a {
 .header__nav_center,
 .header__nav_right {
     font-size: 14px;
-    font-family: 'SF UI Display Light';
+    font-family: "SF UI Display Light";
     font-weight: 400;
     line-height: 40px;
 }
@@ -98,7 +98,7 @@ a {
 }
 
 .button {
-    background-color: #FD665E;
+    background-color: #fd665e;
     border-radius: 3px;
     border: none;
 }
@@ -127,7 +127,7 @@ a {
 }
 
 .main_title span {
-    color: #FD665E;
+    color: #fd665e;
 }
 
 .wrapper_main {
@@ -155,7 +155,7 @@ a {
 }
 
 .main_tap a {
-    font-family: 'SF UI Display';
+    font-family: "SF UI Display";
     font-weight: 200;
 }
 
@@ -167,7 +167,7 @@ a {
 }
 
 .style_title {
-    font-family: 'New York Extra Large Medium';
+    font-family: "New York Extra Large Medium";
     font-size: 38px;
     line-height: 50px;
     margin: 0;
@@ -199,11 +199,11 @@ a {
 }
 
 .navigation_button:hover .symbol {
-    color: #FD665E;
+    color: #fd665e;
 }
 
 .navigation_button:hover {
-    background-color: #E5E5E5;
+    background-color: #e5e5e5;
 }
 
 .pictures_slides_images {
@@ -286,7 +286,7 @@ a {
 
 .topic {
     margin: 0 0 -10px 0;
-    font-family: 'SF UI Display Bold';
+    font-family: "SF UI Display Bold";
     font-size: 16px;
     line-height: 27px;
 }
@@ -294,7 +294,7 @@ a {
 .first_text,
 .middle_text,
 .last_text {
-    font-family: 'SF UI Display Thin';
+    font-family: "SF UI Display Thin";
     font-size: 15px;
     line-height: 26px;
     width: 263px;
@@ -310,7 +310,7 @@ a {
 .benefit_content_tap {
     width: 204px;
     height: 56px;
-    font-family: 'SF UI Display Medium';
+    font-family: "SF UI Display Medium";
     font-size: 14px;
     line-height: 40px;
     margin-top: 60px;
@@ -318,7 +318,7 @@ a {
 }
 
 .wpapper2 {
-    background-color: #F9F9F9;
+    background-color: #f9f9f9;
 }
 
 .citation {
@@ -341,7 +341,7 @@ a {
 }
 
 .citation_text_section_gratitude {
-    font-family: 'SF UI Display Thin', 'sans-serif';
+    font-family: "SF UI Display Thin", "sans-serif";
     font-size: 30px;
     line-height: 45px;
     font-weight: 100;
@@ -352,13 +352,12 @@ a {
     margin-bottom: 59px;
 }
 
-
 .wrapperchik_citation {
     display: flex;
 }
 
 .signature_under_quote {
-    font-family: 'SF UI Display Thin', 'sans-serif';
+    font-family: "SF UI Display Thin", "sans-serif";
     font-size: 16px;
     line-height: 26px;
     width: 216px;
@@ -378,12 +377,12 @@ a {
 }
 
 .use2 {
-    background-color: #F9F9F9;
+    background-color: #f9f9f9;
 }
 
 .offers {
     padding: 88px 120px 64px 179px;
-    background: linear-gradient(to bottom, #F9F9F9, #ffffff);
+    background: linear-gradient(to bottom, #f9f9f9, #ffffff);
 }
 
 .offers_content {
@@ -403,7 +402,7 @@ a {
 }
 
 .offers_title span {
-    color: #FD665E;
+    color: #fd665e;
 }
 
 .offers_title_tap {
@@ -455,7 +454,7 @@ a {
 
 .footer_small_navigation_item a {
     color: #585858;
-    font-family: 'SF UI Display Light';
+    font-family: "SF UI Display Light";
     font-size: 12px;
 }
 
